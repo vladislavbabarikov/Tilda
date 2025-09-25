@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-09-26T02:26:33+03:00">
+	<shop>
+		<name>Панда Кафе</name>
+		<company>Панда Кафе</company>
+		<url>https://pandacafe.ru</url>
+		<platform>Panda Cafe</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="01">Салаты</category>
+			<category id="02">Овощи</category>
+			<category id="03">Свинина</category>
+			<category id="04">Курица</category>
+			<category id="05">Говядина</category>
+			<category id="06">Морепродукты</category>
+			<category id="07">Вок</category>
+			<category id="08">Традиционные блюда и закуски</category>
+			<category id="09">Супы</category>
+			<category id="10">Десерты</category>
+			<category id="11">Напитки</category>
+			<category id="12">All</category>
+		</categories>
+		<offers>
+		<!-- Салаты -->
+		<offer id="0101">
+			<name>拍黄瓜 | Битые огурцы</name>
+			<picture>https://static.tildacdn.com/stor6237-6565-4463-a132-353234383264/38051785.png</picture>
+			<description>огурец, зеленый сладкий перец, красный перец, кинза, соус</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>01</categoryId>
+		</offer>
+		<offer id="0102">
+			<name>奇味木耳 | Салат из древесных грибов</name>
+			<picture>https://static.tildacdn.com/stor6631-6638-4735-b837-616436316661/61263776.png</picture>
+			<description>древесные грибы, зеленый перец, красный перец, кинза, соус</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>01</categoryId>
+		</offer>
+		<offer id="0103">
+			<name>拌腐竹 | Салат из спаржи</name>
+			<picture>https://static.tildacdn.com/stor3436-6433-4034-b830-376632336233/52962379.png</picture>
+			<description>спаржа, огурец, зеленый перец, красный перец, кинза, соус</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>01</categoryId>
+		</offer>
+		<offer id="0104">
+			<name>酱牛肉拌黄瓜 | Ароматная говядина с огурцами в соевом соусе</name>
+			<picture>https://static.tildacdn.com/stor3661-3965-4438-b338-393063316439/65314084.png</picture>
+			<description>говядина, соус</description>
+			<wt>120</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>01</categoryId>
+		</offer>
+		<offer id="0105">
+			<name>恺撒鸡肉色拉 | Салат цезарь с курицей</name>
+			<picture>https://static.tildacdn.com/stor3861-3136-4538-b464-653062303261/62110858.jpg</picture>
+			<description>курица, салат айсберг, сухарики, майонез, сыр</description>
+			<wt>120</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>01</categoryId>
+		</offer>
+		
+		<!-- Овощи -->
+		<offer id="0201">
+			<name>脆茄子 | Хрустящие баклажаны в кисло-сладком соусе</name>
+			<picture>https://static.tildacdn.com/stor3533-6332-4430-b161-396265326162/89000439.png</picture>
+			<description>баклажан, зеленый перец, красный перец</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		<offer id="0202">
+			<name>干锅花菜 | Жареная цветная капуста со свининой</name>
+			<picture>https://static.tildacdn.com/stor3139-3132-4130-b239-666431376532/69601549.png</picture>
+			<description>цветная капуста, свиная грудинка</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		<offer id="0203">
+			<name>手撕包菜 | Жареная китайская капуста со свиной грудинкой</name>
+			<picture>https://static.tildacdn.com/stor3931-6365-4435-b062-653361373237/55362450.png</picture>
+			<description>капуста, свиная грудинка</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		<offer id="0204">
+			<name>麻婆豆腐 | Мапо тофу</name>
+			<picture>https://static.tildacdn.com/stor6632-3430-4331-b263-663831373635/84455795.png</picture>
+			<description>тофу, свинина</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		<offer id="0205">
+			<name>白灼大叶菜 | Салат романо с имбирем в соевом соусе</name>
+			<picture>https://static.tildacdn.com/stor6363-6137-4237-a263-383435376338/61325102.png</picture>
+			<description>салат романо, зеленый лук, кинза, морковь, имбирь</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		<offer id="0206">
+			<name>青菜春卷 | Спринг-роллы с овощами</name>
+			<picture>https://static.tildacdn.com/stor3735-6639-4164-a437-643165633835/93488485.png</picture>
+			<description>сочни для роллов, морковь, кабачки, сельдерей, капуста, шиитаке</description>
+			<wt>160</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>02</categoryId>
+		</offer>
+		
+		<!-- Свинина -->
+		<offer id="0301">
+			<name>锅包肉 | Гобаожо свинина в кисло-сладком соусе</name>
+			<picture>https://static.tildacdn.com/stor6632-6664-4266-b533-633132663165/92338029.png</picture>
+			<description>свинина, сахар, уксус, апельсиновый сок</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>599.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>03</categoryId>
+		</offer>
+		<offer id="0302">
+			<name>京酱肉丝 | Свинина в соевой пасте по-пекински</name>
+			<description>свинина, зеленый лук, кинза, блины из муки</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>03</categoryId>
+		</offer>
+		<offer id="0303">
+			<name>鱼香肉丝 | Свинина со вкусом рыбы</name>
+			<picture>https://static.tildacdn.com/stor6231-3631-4436-b936-666639393232/48826265.png</picture>
+			<description>свинина, зеленый перец, красный перец, древесные грибы</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>03</categoryId>
+		</offer>
+		<offer id="0304">
+			<name>溜肉段 | Традиционная жаренная свиная корейка с перцем</name>
+			<picture>https://static.tildacdn.com/stor6137-3231-4161-b464-663764653961/20423679.png</picture>
+			<description>свинина, зеленый перец, красный перец</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>03</categoryId>
+		</offer>
+		
+		<!-- Курица -->
+		<offer id="0401">
+			<name>菠萝鸡 | Курица с ананасом в кисло-сладком соусе</name>
+			<picture>https://static.tildacdn.com/stor3864-6333-4165-a364-326134373238/39782996.png</picture>
+			<description>курица, ананас, красный перец, зеленый перец</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>399.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>04</categoryId>
+		</offer>
+		<offer id="0402">
+			<name>宫保鸡丁 | Курица Гунбао</name>
+			<picture>https://static.tildacdn.com/stor6535-3737-4665-a564-616139336561/97862300.png</picture>
+			<description>курица, зеленый перец, красный перец, древесные грибы, лук порей, арахис</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>399.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>04</categoryId>
+		</offer>
+		
+		<!-- Говядина -->
+		<offer id="0501">
+			<name>小炒牛肉 | Жареная говядина</name>
+			<picture>https://static.tildacdn.com/stor3963-3665-4532-a166-366666356634/63807174.png</picture>
+			<description>говядина, зеленый перец, красный перец, лук порей, крахмал</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>780.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>05</categoryId>
+		</offer>
+		<offer id="0502">
+			<name>孜然牛肉 | Говядина с тмином</name>
+			<picture>https://static.tildacdn.com/stor3061-6538-4861-a164-383831366365/15274614.png</picture>
+			<description>говядина, кинза, лук порей</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>780.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>05</categoryId>
+		</offer>
+		<offer id="0503">
+			<name>水煮牛肉 | Тушеная острая говядина</name>
+			<picture>https://static.tildacdn.com/stor6637-3264-4236-a161-616562623331/55698561.png</picture>
+			<description>говядина, китайская капуста, ростки соевых бобов</description>
+			<wt>580</wt>
+			<type_wt>Гр.</type_wt>
+			<price>880.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>05</categoryId>
+		</offer>
+		
+		<!-- Морепродукты -->
+		<offer id="0601">
+			<name>辣炒鱿鱼 | Жареный кальмар острый</name>
+			<picture>https://static.tildacdn.com/stor3462-3066-4138-b166-356563393965/31343709.png</picture>
+			<description>кальмар, зеленый перец, красный перец, репчатый лук</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>800.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>06</categoryId>
+		</offer>
+		<offer id="0602">
+			<name>宫保虾 | Креветки Гунбао</name>
+			<description>креветки, овощи по рецепту</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>890.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>06</categoryId>
+		</offer>
+		<offer id="0603">
+			<name>菠萝虾球 | Шарики из креветок с ананасом</name>
+			<picture>https://static.tildacdn.com/stor6561-6134-4436-a461-386437633237/54444506.png</picture>
+			<description>креветки, ананас</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>890.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>06</categoryId>
+		</offer>
+		
+		<!-- Традиционные блюда и закуски -->
+		<offer id="0801">
+			<name>葱油饼 | Лепешка с зеленым луком</name>
+			<picture>https://static.tildacdn.com/stor3164-6430-4039-b235-663334303732/67644336.png</picture>
+			<description>тесто, зеленый лук, слоеное тесто, соль</description>
+			<wt>180</wt>
+			<type_wt>Гр.</type_wt>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0802">
+			<name>香酥饼 | Традиционная китайская лепешка</name>
+			<picture>https://static.tildacdn.com/stor3637-3039-4335-b161-386139346335/93710771.png</picture>
+			<description>тесто, зеленый лук, слоеное тесто, соль</description>
+			<wt>120</wt>
+			<type_wt>Гр.</type_wt>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0803">
+			<name>猪肉白菜水饺 | Пельмени со свининой и капустой</name>
+			<picture>https://static.tildacdn.com/stor3462-6533-4535-b931-663930333361/76063103.png</picture>
+			<description>тесто, свинина, лук порей, имбирь, китайская капуста</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>350.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0804">
+			<name>牛肉大葱水饺 | Пельмени с говядиной и луком</name>
+			<picture>https://static.tildacdn.com/stor3462-6533-4535-b931-663930333361/76063103.png</picture>
+			<description>тесто, говядина, лук порей, имбирь</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0805">
+			<name>素三鲜水饺 | Пельмени с кабачками и яйцами</name>
+			<picture>https://static.tildacdn.com/stor3462-6533-4535-b931-663930333361/76063103.png</picture>
+			<description>тесто, кабачки, яйца, древесные грибы, фунчоза, лук порей</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>350.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0806">
+			<name>猪肉白菜煎饺 | Жареные пельмени со свининой и капустой</name>
+			<picture>https://static.tildacdn.com/stor3464-3634-4563-a538-323238646232/42401895.png</picture>
+			<description>тесто, свинина, китайская капуста, лук порей, имбирь</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0807">
+			<name>牛肉大葱煎饺 | Жареные пельмени с говядиной и луком</name>
+			<picture>https://static.tildacdn.com/stor3365-3332-4261-a533-623562326431/65287501.png</picture>
+			<description>тесто, говядина, лук порей, имбирь</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0808">
+			<name>小笼包 | Сяолунбао маленькие баоцзы на пару</name>
+			<picture>https://static.tildacdn.com/stor3161-3039-4235-a366-623764366335/40339749.png</picture>
+			<description>тесто, свинина, зеленый лук, имбирь</description>
+			<wt>120</wt>
+			<type_wt>Гр.</type_wt>
+			<price>400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0809">
+			<name>白米饭 | Рис</name>
+			<picture>https://static.tildacdn.com/stor6532-3261-4861-b939-396539316434/57655260.png</picture>
+			<description>рис</description>
+			<wt>120</wt>
+			<type_wt>Гр.</type_wt>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0810">
+			<name>红烧牛肉面 | Тушеная говяжья лапша</name>
+			<description>мука, вода, говядина, зеленый лук, кинза, салат романо</description>
+			<wt>230</wt>
+			<type_wt>Гр.</type_wt>
+			<price>590.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0811">
+			<name>炸酱面 | Лапша с пастой соевых бабов по-пекински</name>
+			<picture>https://static.tildacdn.com/stor6364-6632-4234-b062-366531613037/26032032.png</picture>
+			<description>мука, вода, свинина, желтые ростки, огурец, морковь, зеленый лук, кинза</description>
+			<wt>300</wt>
+			<type_wt>Гр.</type_wt>
+			<price>490.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0812">
+			<name>鸡蛋灌饼 | Пирог с яичной начинкой</name>
+			<picture>https://static.tildacdn.com/stor6137-6466-4130-b865-646561383362/58912922.png</picture>
+			<description>мука, яйцо, ветчина, огурец, салат айсберг, кинза, зеленый лук, соевая паста</description>
+			<wt>215</wt>
+			<type_wt>Гр.</type_wt>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0813">
+			<name>肉夹馍 | Жодямо китайский гамбургер со свининой</name>
+			<picture>https://static.tildacdn.com/stor3662-3637-4466-b630-656633623030/33527325.png</picture>
+			<description>мука, свинина, зеленый перец, зеленый лук, кинза, соевая паста</description>
+			<wt>190</wt>
+			<type_wt>Гр.</type_wt>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0814">
+			<name>老北京鸡肉卷 | Ролл с курицей по-пекински</name>
+			<picture>https://static.tildacdn.com/stor6130-3830-4666-a237-363638336266/19483155.png</picture>
+			<description>мука, курица, салат айсберг, огурец, зеленый лук, кинза, соевая паста</description>
+			<wt>160</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0815">
+			<name>老北京鸭肉卷 | Ролл с уткой по-пекински</name>
+			<picture>https://static.tildacdn.com/stor3133-3338-4135-a334-353764376439/19716861.png</picture>
+			<description>мука, утка, салат айсберг, огурец, зеленый лук, кинза, соевая паста</description>
+			<wt>160</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0816">
+			<name>炸薯条(原味) | Картошка фри</name>
+			<picture>https://static.tildacdn.com/stor6438-3338-4131-b239-643565323230/21427991.png</picture>
+			<description>картофель</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		<offer id="0817">
+			<name>炸薯条(辣味) | Острая картошка фри</name>
+			<picture>https://static.tildacdn.com/stor3437-6533-4966-b365-373666646463/24747360.png</picture>
+			<description>картофель, острые специи</description>
+			<wt>150</wt>
+			<type_wt>Гр.</type_wt>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>08</categoryId>
+		</offer>
+		
+		<!-- Вок -->
+		<offer id="0701">
+			<name>牛肉炒饭 | Жареный рис с говядиной</name>
+			<picture>https://static.tildacdn.com/stor3233-3964-4465-b063-663839623461/58640466.png</picture>
+			<description>рис, говядина, зеленый перец, красный перец, зеленый лук</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>680.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0702">
+			<name>虾仁炒饭 | Жареный рис с креветками</name>
+			<picture>https://static.tildacdn.com/stor3233-3964-4465-b063-663839623461/58640466.png</picture>
+			<description>рис, креветки, яйца, зеленый перец, красный перец, зеленый лук</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>680.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0703">
+			<name>酱油蔬菜炒饭 | Жареный рис с овощами в соевом соусе</name>
+			<picture>https://static.tildacdn.com/stor3537-6631-4031-b739-396334613834/85882162.png</picture>
+			<description>рис, салат романо, соевый соус</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0704">
+			<name>牛肉炒面 | Жареная лапша с говядиной</name>
+			<picture>https://static.tildacdn.com/stor6339-6264-4161-a331-636134336435/64673983.png</picture>
+			<description>мука, говядина, капуста, зеленый перец, красный перец</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>590.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0705">
+			<name>虾仁炒面 | Жареная лапша с креветками</name>
+			<picture>https://static.tildacdn.com/stor6339-6264-4161-a331-636134336435/64673983.png</picture>
+			<description>мука, креветки, зеленый перец, красный перец, салат романо</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>590.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0706">
+			<name>鸡肉炒面 | Жареная лапша с курицей</name>
+			<picture>https://static.tildacdn.com/stor6339-6264-4161-a331-636134336435/64673983.png</picture>
+			<description>мука, вода, курица, капуста, зеленый перец, красный перец</description>
+			<wt>210</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0707">
+			<name>宫保鸡丁盖饭 | Рис с Курицей Гунбао</name>
+			<picture>https://static.tildacdn.com/stor6136-6635-4763-b235-396238316332/53331314.png</picture>
+			<description>курица, зеленый перец, красный перец, лук порей, древесные грибы, рис</description>
+			<wt>310</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0708">
+			<name>咖喱鸡肉盖饭 | Рис с Курицей в карри</name>
+			<picture>https://static.tildacdn.com/stor3461-6237-4539-a133-366631653831/72957477.png</picture>
+			<description>курица, салат романо, рис, карри</description>
+			<wt>310</wt>
+			<type_wt>Гр.</type_wt>
+			<price>520.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0709">
+			<name>肉沫茄子盖饭 | Рис с Баклажанами с фаршом</name>
+			<picture>https://static.tildacdn.com/stor3464-6233-4163-a562-306662343532/45291338.png</picture>
+			<description>баклажан, свинина, салат романо, рис</description>
+			<wt>310</wt>
+			<type_wt>Гр.</type_wt>
+			<price>450.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		<offer id="0710">
+			<name>照烧鸡腿盖饭 | Рис с Куриной голенью в соусе терияки</name>
+			<picture>https://static.tildacdn.com/stor3463-3661-4738-b432-616264663330/52575350.png</picture>
+			<description>рис, куриная голень, салат романо</description>
+			<wt>310</wt>
+			<type_wt>Гр.</type_wt>
+			<price>480.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>07</categoryId>
+		</offer>
+		
+		<!-- Супы -->
+		<offer id="0901">
+			<name>鸡丝酸辣汤 | Суп кисло-острый с курицей</name>
+			<picture>https://static.tildacdn.com/stor6634-3538-4932-b633-663762633434/54102228.png</picture>
+			<description>курица, яйца, тофу, древесные грибы, зеленый лук, кинза</description>
+			<wt>250</wt>
+			<type_wt>Гр.</type_wt>
+			<price>350.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>09</categoryId>
+		</offer>
+		<offer id="0902">
+			<name>冬阴功汤 | Суп Том Ям</name>
+			<picture>https://static.tildacdn.com/stor3139-3730-4065-a638-343434313134/32750645.png</picture>
+			<description>креветки, кальмар, мидии, паста Том Ям, кокосовое молоко</description>
+			<wt>250</wt>
+			<type_wt>Гр.</type_wt>
+			<price>580.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>09</categoryId>
+		</offer>
+		
+		<!-- Десерты -->
+		<offer id="1001">
+			<name>拔丝香蕉 | Бананы под карамелью</name>
+			<picture>https://static.tildacdn.com/stor6561-6337-4564-a532-613338323665/30083571.png</picture>
+			<description>бананы, сахар, крахмал</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>10</categoryId>
+		</offer>
+		<offer id="1002">
+			<name>拔丝菠萝 | Ананасы под карамелью</name>
+			<picture>https://static.tildacdn.com/stor6561-6337-4564-a532-613338323665/30083571.png</picture>
+			<description>ананасы, сахар, крахмал</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>10</categoryId>
+		</offer>
+		<offer id="1003">
+			<name>拔丝苹果 | Яблоки под карамелью</name>
+			<picture>https://static.tildacdn.com/stor6561-6337-4564-a532-613338323665/30083571.png</picture>
+			<description>яблоки, сахар, крахмал</description>
+			<wt>200</wt>
+			<type_wt>Гр.</type_wt>
+			<price>380.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>10</categoryId>
+		</offer>
+		<offer id="1004">
+			<name>南瓜饼 | Тыквенные оладьи</name>
+			<picture>https://static.tildacdn.com/stor3533-6435-4633-b462-616262383865/24430544.png</picture>
+			<description>мука, красные бобы, кунжут</description>
+			<wt>250</wt>
+			<type_wt>Гр.</type_wt>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>10</categoryId>
+		</offer>
+		
+		<!-- Напитки -->
+		<offer id="1101">
+			<name>Бон Аква (Не газированная)</name>
+			<picture>https://static.tildacdn.com/stor3135-3861-4362-a538-346436653164/97371135.png</picture>
+			<description>чистая питьевая вода</description>
+			<wt>500</wt>
+			<type_wt>Мл.</type_wt>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1102">
+			<name>Бон Аква Газированная</name>
+			<picture>https://static.tildacdn.com/stor6236-3639-4738-a634-613434636463/15762780.png</picture>
+			<description>газированная питьевая вода</description>
+			<wt>500</wt>
+			<type_wt>Мл.</type_wt>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1103">
+			<name>Ванлаоцзи</name>
+			<picture>https://static.tildacdn.com/stor3139-3364-4534-b031-363663393930/46409624.png</picture>
+			<description>травяной напиток</description>
+			<wt>310</wt>
+			<type_wt>Мл.</type_wt>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1104">
+			<name>Кокосовый сок</name>
+			<picture>https://static.tildacdn.com/stor6532-3338-4135-a232-343032366435/72165251.png</picture>
+			<description>натуральный кокосовый сок</description>
+			<wt>330</wt>
+			<type_wt>Мл.</type_wt>
+			<price>220.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1105">
+			<name>Кола "Добрый"</name>
+			<picture>https://static.tildacdn.com/stor3335-3032-4336-a664-393533626135/18180310.png</picture>
+			<description>газированный напиток кола</description>
+			<wt>500</wt>
+			<type_wt>Мл.</type_wt>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1106">
+			<name>Стар бар крафт</name>
+			<picture>https://static.tildacdn.com/stor3039-6637-4137-a361-366162646630/47224245.png</picture>
+			<description>крафтовый напиток</description>
+			<wt>330</wt>
+			<type_wt>Мл.</type_wt>
+			<price>230.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		<offer id="1107">
+			<name>Жасминовый чай с грейпфрутом</name>
+			<picture>https://static.tildacdn.com/stor6565-3430-4236-b135-343061623961/86236616.png</picture>
+			<description>жасминовый чай, грейпфрут</description>
+			<wt>500</wt>
+			<type_wt>Мл.</type_wt>
+			<price>330.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>11</categoryId>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
