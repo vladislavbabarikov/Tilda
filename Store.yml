@@ -605,7 +605,7 @@
 		<offer id="1101">
 			<name>Бон Аква (Не газированная)</name>
 			<picture>https://static.tildacdn.com/stor3135-3861-4362-a538-346436653164/97371135.png</picture>
-			<description>чистая питьевая вода</description>
+			<description>Чистая питьевая вода первой категории, негазированная, очищенная, артезианская, выпускаемая под торговой маркой BonAqua, произведена ООО «Кока-Кола Эйчбиси Евразия» в России.</description>
 			<wt>500</wt>
 			<type_wt>Мл.</type_wt>
 			<price>120.00</price>
@@ -615,7 +615,7 @@
 		<offer id="1102">
 			<name>Бон Аква Газированная</name>
 			<picture>https://static.tildacdn.com/stor6236-3639-4738-a634-613434636463/15762780.png</picture>
-			<description>газированная питьевая вода</description>
+			<description>Чистая питьевая вода первой категории, газированная, очищенная, артезианская, выпускаемая под торговой маркой BonAqua, произведена ООО «Кока-Кола Эйчбиси Евразия» в России.</description>
 			<wt>500</wt>
 			<type_wt>Мл.</type_wt>
 			<price>120.00</price>
@@ -625,7 +625,7 @@
 		<offer id="1103">
 			<name>Ванлаоцзи</name>
 			<picture>https://static.tildacdn.com/stor3139-3364-4534-b031-363663393930/46409624.png</picture>
-			<description>травяной напиток</description>
+			<description></description>
 			<wt>310</wt>
 			<type_wt>Мл.</type_wt>
 			<price>200.00</price>
@@ -635,7 +635,7 @@
 		<offer id="1104">
 			<name>Кокосовый сок</name>
 			<picture>https://static.tildacdn.com/stor6532-3338-4135-a232-343032366435/72165251.png</picture>
-			<description>натуральный кокосовый сок</description>
+			<description></description>
 			<wt>330</wt>
 			<type_wt>Мл.</type_wt>
 			<price>220.00</price>
@@ -645,7 +645,7 @@
 		<offer id="1105">
 			<name>Кола "Добрый"</name>
 			<picture>https://static.tildacdn.com/stor3335-3032-4336-a664-393533626135/18180310.png</picture>
-			<description>газированный напиток кола</description>
+			<description>Напиток безалкогольный, сильногазированный, ароматизированный «Кола Добрый» под торговой маркой «Добрый Cola» произведен ООО «Мултон Партнерс» в России.</description>
 			<wt>500</wt>
 			<type_wt>Мл.</type_wt>
 			<price>200.00</price>
@@ -655,7 +655,7 @@
 		<offer id="1106">
 			<name>Стар бар крафт</name>
 			<picture>https://static.tildacdn.com/stor3039-6637-4137-a361-366162646630/47224245.png</picture>
-			<description>крафтовый напиток</description>
+			<description></description>
 			<wt>330</wt>
 			<type_wt>Мл.</type_wt>
 			<price>230.00</price>
@@ -665,7 +665,7 @@
 		<offer id="1107">
 			<name>Жасминовый чай с грейпфрутом</name>
 			<picture>https://static.tildacdn.com/stor6565-3430-4236-b135-343061623961/86236616.png</picture>
-			<description>жасминовый чай, грейпфрут</description>
+			<description></description>
 			<wt>500</wt>
 			<type_wt>Мл.</type_wt>
 			<price>330.00</price>
