@@ -95,7 +95,7 @@
 			<type_wt>Гр.</type_wt>
 			<price>380.00</price>
 			<currencyId>RUR</currencyId>
-			<categoryId>02</categoryId>
+			<categoryId>03</categoryId>
 		</offer>
 		<offer id="0203">
 			<name>手撕包菜 | Жареная китайская капуста со свиной грудинкой</name>
@@ -105,7 +105,7 @@
 			<type_wt>Гр.</type_wt>
 			<price>280.00</price>
 			<currencyId>RUR</currencyId>
-			<categoryId>02</categoryId>
+			<categoryId>03</categoryId>
 		</offer>
 		<offer id="0204">
 			<name>麻婆豆腐 | Мапо тофу</name>
